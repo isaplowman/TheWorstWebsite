@@ -1,0 +1,194 @@
+Body{
+    background-image: url("background.webp");
+}
+
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    text-decoration: line-through;
+    letter-spacing: 3px;
+    position: fixed;
+    left: 400px;
+    background-color: red;
+}
+
+
+#lightImage {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: absolute;
+    top: 5px;
+    left: 1270px;
+}
+
+#lightImage2 {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: relative;
+    top: 250px;
+    left: 1100px;
+}
+
+#lightImage3 {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: relative;
+    top: 500px;
+    left: 935px;
+}
+#lightImage4 {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: relative;
+    top: 750px;
+    left: 770px;
+}
+#lightImage5 {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: relative;
+    top: 1000px;
+    left: 605px;
+}
+#lightImage6 {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: relative;
+    top: 1250px;
+    left: 440px;
+}
+#lightImage7 {
+    width: 150px;
+    border-style: dotted;
+    border-color: red;
+    border-width: thick;
+    position: relative;
+    top: 1500px;
+    left: 275px;
+}
+
+#darkImage {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: absolute;
+    top: 5px;
+}
+
+#darkImage2 {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: relative;
+    top: 240px;
+}
+
+#darkImage3 {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: absolute;
+    top: 505px;
+    left: 8px;
+}
+
+#darkImage4 {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: absolute;
+    top: 750px;
+    left: 8px;
+}
+
+#darkImage5 {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: absolute;
+    top: 1000px;
+    left: 8px;
+}
+#darkImage6 {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: absolute;
+    top: 1250px;
+    left: 8px;
+}
+#darkImage7 {
+    width: 150px;
+    border-style: dotted;
+    border-color: aqua;
+    border-width: thick;
+    position: absolute;
+    top: 1500px;
+    left: 8px;
+}
+
+
+
+
+#BrennanPageButton{
+    color: red;
+    background-color: aqua;
+    font-size: 50px;
+
+
+}
+
+#DalePageButton{
+    color: aqua;
+    background-color: red;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    position: fixed;
+    left:600px;
+    bottom: 400px;
+    border-style: double;
+    border-width: thick;
+    border-color: black;
+
+}
+h3{
+    text-align: center;
+    position: fixed;
+    left: 650px;
+    bottom: 300px;
+    border-style: double;
+    border-width: thick;
+    border-color: black;
+}
+h4 {
+    text-align: center;
+    position: fixed;
+    left: 330px;
+    bottom: 100px;
+    font-size: 50px;
+    color: white;
+    background-color: aqua;
+}
